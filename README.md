@@ -13,7 +13,7 @@ RUN INSTRUCTIONS
 HOW TO PLAY
 
 - golf ball spawns on random planet, within a randomly generated course/planet layout
-- goal is to get the ball into the cup (which is marked by a flag and located on a different planet) in the least number of shots as possible
+- goal is to get the ball into the cup (which is marked by a flag and located on a different planet) in the least number of shots
 - infinite number of holes/rounds
 - drag mouse to adjust power
 - ball's flight through space is affected by gravity of all planets, those bigger and closer will have more of an effect
