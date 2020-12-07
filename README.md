@@ -26,4 +26,4 @@ OBSTACLES & POWER UPS
 
 NOTES
 
-- window size (1500x1000) unfortunately not adjustable (unless you alter it in the code yourself)
+- window size (1500x1000) unfortunately not adjustable unless you alter it in the code yourself
