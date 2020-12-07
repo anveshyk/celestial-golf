@@ -1,6 +1,8 @@
 # celestial-golf
 2D golf game set in space made with Processing Java. Each level is procedurally generated, and your shots are affected by each planet's gravity.
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 RUN INSTRUCTIONS
 
 - download Processing from https://processing.org/download/
